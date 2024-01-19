@@ -248,7 +248,6 @@ ORDER BY
 LIMIT 5;
 Note: This query identifies the top product categories based on total sales, guiding inventory and marketing strategies.
 
-
 -- Query to find the top subcategories based on total sales.
 SELECT 
     sub_category,
@@ -271,7 +270,6 @@ FROM
     sales;
 Note: This query counts the total number of unique customers, helping assess customer reach and engagement.
 
-
 -- Query to find total sales and total profit across all categories and subcategories.
 SELECT 
     SUM(sales) AS total_sales,
@@ -279,7 +277,6 @@ SELECT
 FROM 
     sales;
 Note: This query returns the overall total sales and total profit across all categories and subcategories, providing a snapshot of the business's financial health.
-
 
 -- Query to calculate total shipping cost by product.
 SELECT 
@@ -294,7 +291,6 @@ ORDER BY
     total_shipping_cost DESC;
 Note: This query calculates the total shipping cost for each product, helping optimize shipping expenses.
 
-
 -- Query to count orders for each order priority level.
 SELECT 
     order_priority,
@@ -304,7 +300,6 @@ FROM
 GROUP BY 
     order_priority;
 Note: This query counts the number of orders for each order priority level, aiding in order fulfillment strategies.
-
 
 -- Query to count the number of unique products.
 SELECT 

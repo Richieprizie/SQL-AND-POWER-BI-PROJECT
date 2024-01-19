@@ -4,6 +4,8 @@
 
 The primary objectives of this project are to analyze the Superstore sales dataset and derive meaningful insights that can inform business decisions. Key focus areas include understanding sales trends, customer behavior, regional performance, and product popularity.
 
+<img width="635" alt="Screenshot 2024-01-17 013509" src="https://github.com/Richieprizie/SQL-AND-POWER-BI-PROJECT/assets/141673351/e5cf1391-d6df-4ce5-88c1-266711a2c62c">
+
 ### Data Source
 Superstoreorders: The primary dataset used for this analysis is "SuperStoreOrders.csv" file, containing detailed information about each sale made by the company. Dataset was downloaded on kaggle.com.
 

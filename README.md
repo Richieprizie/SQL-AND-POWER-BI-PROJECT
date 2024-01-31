@@ -1,10 +1,22 @@
 # SQL-AND-POWER-BI-PROJECT
 
+## Project Outline
+
+- [Project Objectives](#project-objectives)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Dataset Overview](#dataset-overview)
+- [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
+- [Data Visualization](#data-visualization)
+
+
 ### Project Objectives
 
 The primary objectives of this project are to analyze the Superstore sales dataset and derive meaningful insights that can inform business decisions. Key focus areas include understanding sales trends, customer behavior, regional performance, and product popularity.
 
-<img width="635" alt="Screenshot 2024-01-17 013509" src="https://github.com/Richieprizie/SQL-AND-POWER-BI-PROJECT/assets/141673351/e5cf1391-d6df-4ce5-88c1-266711a2c62c">
 
 ### Data Source
 Superstoreorders: The primary dataset used for this analysis is "SuperStoreOrders.csv" file, containing detailed information about each sale made by the company. Dataset was downloaded on kaggle.com.
@@ -370,6 +382,11 @@ Subcategory Emphasis:
 
 7. Given that "Storage" is the leading subcategory, consider emphasizing marketing efforts, promotions, or new product launches within this subcategory to capitalize on customer preferences.
 These recommendations aim to guide strategic decision-making and actions based on the identified strengths and opportunities in the Superstore sales data. Implementing these suggestions can contribute to enhanced sales performance and overall business success.
+
+### Data Visualization
+
+<img width="635" alt="Screenshot 2024-01-17 013509" src="https://github.com/Richieprizie/SQL-AND-POWER-BI-PROJECT/assets/141673351/53c45659-c60c-4242-a19c-d3eab53fdced">
+
 
 
 

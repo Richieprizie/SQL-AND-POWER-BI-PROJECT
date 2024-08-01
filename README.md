@@ -1,6 +1,7 @@
-# SQL-AND-POWER-BI-PROJECT
+# SALES ANALYSIS
+## SQL-AND-POWER-BI-PROJECT
 
-## Project Outline
+### Project Outline
 
 - [Project Objectives](#project-objectives)
 - [Data Source](#data-source)

@@ -1,5 +1,5 @@
 # SALES ANALYSIS
-## SQL-AND-POWER-BI-PROJECT
+
 
 ### Project Outline
 
